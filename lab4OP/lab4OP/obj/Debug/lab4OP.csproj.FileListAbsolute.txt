@@ -1,0 +1,16 @@
+D:\labs\lab4OP\lab4OP\lab4OP\bin\Debug\lab4OP.exe.config
+D:\labs\lab4OP\lab4OP\lab4OP\bin\Debug\lab4OP.exe
+D:\labs\lab4OP\lab4OP\lab4OP\bin\Debug\lab4OP.pdb
+D:\labs\lab4OP\lab4OP\lab4OP\obj\Debug\lab4OP.csproj.AssemblyReference.cache
+D:\labs\lab4OP\lab4OP\lab4OP\obj\Debug\lab4OP.csproj.SuggestedBindingRedirects.cache
+D:\labs\lab4OP\lab4OP\lab4OP\obj\Debug\lab4OP.csproj.CoreCompileInputs.cache
+D:\labs\lab4OP\lab4OP\lab4OP\obj\Debug\lab4OP.exe
+D:\labs\lab4OP\lab4OP\lab4OP\obj\Debug\lab4OP.pdb
+C:\Users\user\Desktop\lab4OP\lab4OP\lab4OP\bin\Debug\lab4OP.exe.config
+C:\Users\user\Desktop\lab4OP\lab4OP\lab4OP\bin\Debug\lab4OP.exe
+C:\Users\user\Desktop\lab4OP\lab4OP\lab4OP\bin\Debug\lab4OP.pdb
+C:\Users\user\Desktop\lab4OP\lab4OP\lab4OP\obj\Debug\lab4OP.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\lab4OP\lab4OP\lab4OP\obj\Debug\lab4OP.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\lab4OP\lab4OP\lab4OP\obj\Debug\lab4OP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\lab4OP\lab4OP\lab4OP\obj\Debug\lab4OP.exe
+C:\Users\user\Desktop\lab4OP\lab4OP\lab4OP\obj\Debug\lab4OP.pdb
